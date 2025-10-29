@@ -1,11 +1,5 @@
 
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=woven&color=0:667eea,100:764ba2&height=300&section=header&text=SATHVIKA%20KALAPALA&fontSize=70&fontColor=fff&animation=twinkling&fontAlign=50&stroke=000000&strokeWidth=2&desc=◉%20DATA%20ANALYST%20◉%20HEALTHCARE%20ANALYTICS%20◉%20CLOUD%20DATA%20ENGINEERING%20◉&descSize=18&descAlign=50&descAlignY=75" />
-</div>
-
-<div align="center">
-
 ```bash
 ┌─[sathvika@data-terminal]─[~/career_achievements]
 └──╼ $ whoami
